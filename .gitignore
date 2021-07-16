@@ -154,7 +154,7 @@ dist
 .sass-cache/
 *.css.map
 *.sass.map
-*.scss.map
+
 
 ### VisualStudioCode ###
 .vscode/*
@@ -200,4 +200,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/sass,windows,macos,node,visualstudiocode
 
-docs/
+
